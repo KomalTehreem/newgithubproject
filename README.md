@@ -1,4 +1,4 @@
 # newgithubproject
 Hi!
 I am learning github.
-and now editing 2nd time
+and now editing 2nd time.
